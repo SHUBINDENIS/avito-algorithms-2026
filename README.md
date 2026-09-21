@@ -11,6 +11,10 @@ homework_1/
 ├── palindrome/
 ├── sum/
 └── prime/
+homework_2/
+├── stack_vs_queue/
+├── validate/
+└── merge_lists/
 ```
 
 В каждой папке задачи:
@@ -27,6 +31,9 @@ homework_1/
 python homework_1/palindrome/test_solution.py -v
 python homework_1/sum/test_solution.py -v
 python homework_1/prime/test_solution.py -v
+python homework_2/stack_vs_queue/test_solution.py -v
+python homework_2/validate/test_solution.py -v
+python homework_2/merge_lists/test_solution.py -v
 ```
 
 Для запуска тестов одной задачи выполните соответствующую строку из списка.
