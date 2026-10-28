@@ -19,6 +19,11 @@ homework_3/
 ├── two_sum/
 ├── anagrams/
 └── hash_table/
+homework_4/
+└── Binary_Tree/
+    ├── tree_traversal/
+    ├── validate_bst/
+    └── balanced_tree/
 ```
 
 В каждой папке задачи:
@@ -41,6 +46,9 @@ python homework_2/merge_lists/test_solution.py -v
 python homework_3/two_sum/test_solution.py -v
 python homework_3/anagrams/test_solution.py -v
 python homework_3/hash_table/test_solution.py -v
+python homework_4/Binary_Tree/tree_traversal/test_solution.py -v
+python homework_4/Binary_Tree/validate_bst/test_solution.py -v
+python homework_4/Binary_Tree/balanced_tree/test_solution.py -v
 ```
 
 Для запуска тестов одной задачи выполните соответствующую строку из списка.
