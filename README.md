@@ -24,6 +24,10 @@ homework_4/
     ├── tree_traversal/
     ├── validate_bst/
     └── balanced_tree/
+homework_5/
+├── tracer/
+├── permutations/
+└── AVL/
 ```
 
 В каждой папке задачи:
@@ -49,6 +53,9 @@ python homework_3/hash_table/test_solution.py -v
 python homework_4/Binary_Tree/tree_traversal/test_solution.py -v
 python homework_4/Binary_Tree/validate_bst/test_solution.py -v
 python homework_4/Binary_Tree/balanced_tree/test_solution.py -v
+python homework_5/tracer/test_solution.py -v
+python homework_5/permutations/test_solution.py -v
+python homework_5/AVL/test_solution.py -v
 ```
 
 Для запуска тестов одной задачи выполните соответствующую строку из списка.
