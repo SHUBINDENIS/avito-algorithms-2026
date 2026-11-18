@@ -28,6 +28,10 @@ homework_5/
 ├── tracer/
 ├── permutations/
 └── AVL/
+homework_6/
+├── compare/
+├── iterative/
+└── kth/
 ```
 
 В каждой папке задачи:
@@ -56,6 +60,9 @@ python homework_4/Binary_Tree/balanced_tree/test_solution.py -v
 python homework_5/tracer/test_solution.py -v
 python homework_5/permutations/test_solution.py -v
 python homework_5/AVL/test_solution.py -v
+python homework_6/compare/test_solution.py -v
+python homework_6/iterative/test_solution.py -v
+python homework_6/kth/test_solution.py -v
 ```
 
 Для запуска тестов одной задачи выполните соответствующую строку из списка.
